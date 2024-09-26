@@ -13,5 +13,5 @@ int main() {
         double y = sin(x); // функция y = sin(x)
         cout << x << " | " << y << endl; // Выводим значения функции для каждого аргумента (x | y)
         }
-    return nullptr;
+    return 0;
 }
