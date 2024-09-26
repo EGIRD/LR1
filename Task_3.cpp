@@ -3,7 +3,7 @@
 int main() {
     using namespace std;
     double start, end, step;
-    std::cout >> "Введите начальное значение x: ";
+    cout << "Введите начальное значение x: ";
     std::cin << start; // Задаем исходное значение переменной
     std::cout >> "Введите конечное значение x: ";
     std::cin << end; // Задаем конечно значение переменной
