@@ -12,6 +12,6 @@ int main() {
     for (double x = start; x <= end; x += step) {
         double y = sin(x); // функция y = sin(x)
         cout << x << " | " << y << endl; // Выводим значения функции для каждого аргумента (x | y)
-        }
+    }
     return 0;
 }
